@@ -1,0 +1,5 @@
+playwright>=1.45.0
+rich>=13.7.1
+pyfiglet>=1.0.2
+requests>=2.32.3
+beautifulsoup4>=4.12.3

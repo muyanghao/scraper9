@@ -1,0 +1,14 @@
+
+venv/
+venv310/
+output/
+txt/
+
+__pycache__/
+*.py[cod]
+
+
+*.log
+*.tmp
+*.bak
+.DS_Store

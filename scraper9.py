@@ -730,7 +730,7 @@ def scrape_one_site_inner(website, playwright):
 
     except Exception as e:
         with fail_lock:
-            fail_log_path = os.path.join(output_dir, "fail_urls.txt")
+            fail_log_path = os.path.join(output_dir, "fail.txt")
             with open(fail_log_path, "a", encoding="utf-8") as f:
                 f.write(website + "\n")
         print(f"[ERROR] {website} - {e}")
