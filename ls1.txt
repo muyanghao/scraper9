@@ -1,13 +1,6 @@
-https://www.airdberlis.com
-https://www.bakermckenzie.com
-https://www.belmorelaw.com/
-https://www.bennettjones.com
-https://www.blakes.com
-https://www.blaney.com/
 https://www.blg.com/
 https://www.caleywray.com/
 https://www.fasken.com
-http://www.millerthomson.com
 http://www.osler.com
 http://www.weirfoulds.com
 https://boughtonlaw.com
@@ -26,7 +19,6 @@ https://www.lawsociety.bc.ca
 https://cassels.com
 https://www.blg.com
 https://www.weirfoulds.com
-https://www.fasken.com
 https://www.millerthomson.com
 https://www.osler.com
 https://www.stikeman.ca
